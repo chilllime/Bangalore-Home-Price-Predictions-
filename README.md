@@ -1,17 +1,24 @@
 # Bangalore-Home-Price-Predictions-
 Project Overview:
+
 Developed a machine learning model to predict home prices based on various features such as location, size, age, and other relevant attributes. The goal was to create an accurate and reliable model to assist real estate agents and potential home buyers in estimating property values.
 
 Key Responsibilities:
 
 Data Collection:
+
      Gathered data from multiple sources, including real estate websites, government databases, and other public records.
+     
 Data Cleaning and Preprocessing:
+
      Cleaned the dataset by handling missing values, removing duplicates, and normalizing numerical features. Performed feature engineering to create new relevant 
      features.
+     
 Exploratory Data Analysis (EDA): 
+
      Conducted EDA to identify trends, patterns, and correlations in the data. Visualized data distributions and relationships using Python libraries such as 
      Pandas, Matplotlib, and Seaborn.
+     
 Model Selection:
      Evaluated different regression models, including Linear Regression, Decision Trees, Random Forest, and Gradient Boosting. Used cross-validation to compare 
      model performance.
