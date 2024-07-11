@@ -7,7 +7,7 @@ Key Responsibilities:
 
 Data Collection:
 
-     Gathered data from multiple sources, including real estate websites, government databases, and other public records.
+     Gathered data from kaggle website.
      
 Data Cleaning and Preprocessing:
 
