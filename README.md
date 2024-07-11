@@ -42,7 +42,7 @@ Documentation and Reporting:
      Documented the entire process, including data preprocessing steps, model selection, and evaluation results. Prepared a comprehensive report and presentation 
      for stakeholders.
 
-Datset: https://www.kaggle.com/code/iamsach/bengaluru-house-price/input
+Datset: https://www.kaggle.com/amitabhajoy/bengaluru-house-price-data
      
 Tools and Technologies:
 
